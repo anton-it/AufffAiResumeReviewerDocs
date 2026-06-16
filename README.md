@@ -18,6 +18,7 @@ AI-powered resume review Android application
 ##  Установка
 
 [Скачать APK](https://drive.google.com/file/d/12ceBivNimtY0GvmH9tT7HAVZcjRctaz7/view?usp=sharing)
+[Private репозиторий](https://github.com/anton-it/AufffAiResumeReviewer) (Предоставляется по запросу)
 
 ## 📋 Требования
 
