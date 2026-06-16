@@ -15,6 +15,18 @@ AI-powered resume review Android application
 - Адаптация под вакансию
 - Ключевые слова для ATS
 
+### Рекомендации
+![Recommendations Screen](screenshots/Screen5.png)
+
+##  Установка
+
+[Скачать APK](https://drive.google.com/file/d/12ceBivNimtY0GvmH9tT7HAVZcjRctaz7/view?usp=sharing)
+
+## 📋 Требования
+
+- Android 8.0+
+- Интернет-соединение
+
 ## 📸 Скриншоты
 
 ### Splash screen
@@ -28,18 +40,6 @@ AI-powered resume review Android application
 
 ### История анализов 
 ![History Screen](screenshots/Screen4.png)
-
-### Рекомендации
-![Recommendations Screen](screenshots/Screen5.png)
-
-##  Установка
-
-[Скачать APK](https://drive.google.com/file/d/12ceBivNimtY0GvmH9tT7HAVZcjRctaz7/view?usp=sharing)
-
-## 📋 Требования
-
-- Android 8.0+
-- Интернет-соединение
 
 ## 📄 Лицензия
 
