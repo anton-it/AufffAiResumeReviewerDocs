@@ -26,6 +26,7 @@ AI-powered resume review Android application
 
 ##  API
 Бесплатная модель DeepSeek через OpenRouter.
+
 [API OpenRouter](https://openrouter.ai/docs)
   
 ##  Установка
