@@ -15,6 +15,19 @@ AI-powered resume review Android application
 - Адаптация под вакансию
 - Ключевые слова для ATS
 
+##  Технологии
+- Язык - Kotlin
+- Архитектура - MVVM
+- UI - Jetpack Compose
+- Хранение данных – Room
+- Асинхронная работа - Kotlin Coroutins
+- Работа с сетью - Retrofit
+- Библиотека внедрения зависимостей - Hilt
+
+##  API
+Бесплатная модель DeepSeek через OpenRouter.
+[API OpenRouter](https://openrouter.ai/docs)
+  
 ##  Установка
 
 [Скачать APK](https://drive.google.com/file/d/12ceBivNimtY0GvmH9tT7HAVZcjRctaz7/view?usp=sharing)
